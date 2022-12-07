@@ -1,6 +1,7 @@
 # kickstarter-Bootcamp-Analysis
 
-# Problem: To receive funding for a kickstarter campaign, the campaign project must meet or exceed an initial goal. The client is trying to determine the trick to developing a successful Kickstarter campaign based on past campaign successes and failures. One Thousand campaigns were analyzed via the counts of successful, canceled, live and failed projects.  Outcomes based on the number of backers, dates created and deadlines, location of project, and categories of the project were analzed.
+### Problem: 
+To receive funding for a kickstarter campaign, the campaign project must meet or exceed an initial goal. The client is trying to determine the trick to developing a successful Kickstarter campaign based on past campaign successes and failures. One Thousand campaigns were analyzed via the counts of successful, canceled, live and failed projects.  Outcomes based on the number of backers, dates created and deadlines, location of project, and categories of the project were analzed.
  
 ### Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
  
